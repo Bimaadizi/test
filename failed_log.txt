@@ -1,0 +1,6 @@
+Forum:Insights from Special:Insights — https://forgottenrealms.fandom.com/wiki/Forum:Insights_from_Special:Insights — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\Forum:Insights from Special:Insights.html'
+Drake "Deepcups" — https://forgottenrealms.fandom.com/wiki/Drake_%22Deepcups%22 — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\Drake "Deepcups".html'
+"Rock Eaters" They are Not — https://forgottenrealms.fandom.com/wiki/%22Rock_Eaters%22_They_are_Not — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\"Rock Eaters" They are Not.html'
+Elven Metallurgy, Myth or Magic? — https://forgottenrealms.fandom.com/wiki/Elven_Metallurgy,_Myth_or_Magic%3F — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\Elven Metallurgy, Myth or Magic?.html'
+Mail of Fennibal "Thunder" Bale — https://forgottenrealms.fandom.com/wiki/Mail_of_Fennibal_%22Thunder%22_Bale — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\Mail of Fennibal "Thunder" Bale.html'
+Ring of spell "turning" — https://forgottenrealms.fandom.com/wiki/Ring_of_spell_%22turning%22 — [Errno 22] Invalid argument: 'H:\\HTML\\Extension\\Forgotten Realms Wiki\\All\\Ring of spell "turning".html'
